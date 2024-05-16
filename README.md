@@ -1,4 +1,4 @@
-# Training a Spanish-to-English model with Marian
+# Spanish-to-English model with Marian
 
 This is an example of building a Spansh-to-English sequence-to-sequence
 neural translation model using [Marian NMT](https://marian-nmt.github.io/).
